@@ -1,0 +1,12 @@
+﻿  tut_03_05.cpp
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(271,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(427,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(428,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(434,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(435,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(437,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(438,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019\CS330\finalScene\module03\tut_03_05.cpp(451,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  tutorial_03_05.vcxproj -> D:\Visual Studio 2019\CS330\finalScene\Debug\tutorial_03_05.exe
+  D:\Visual Studio 2019\CS330\finalScene\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
